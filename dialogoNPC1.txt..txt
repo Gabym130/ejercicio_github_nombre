@@ -1,4 +1,5 @@
 Hola
 Buenos días
 ¿Te sientes bien?
-["dialogoNPC-SI"]
+["dialogoNPC-SI", "dialogoNPC-NO"]
+
